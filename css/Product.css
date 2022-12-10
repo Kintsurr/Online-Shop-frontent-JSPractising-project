@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+td{
+    border: 1px solid #E0E0E0
+}
+th{
+    border: 1px solid #E0E0E0
+}
